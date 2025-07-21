@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104452189741",
+    "project_id": "myappfirebase-cef23",
+    "storage_bucket": "myappfirebase-cef23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104452189741:android:b51a59d8cf3c18643ed2a4",
+        "android_client_info": {
+          "package_name": "com.example.mi_agenda_contatos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsYcdHA_8ipcNSApiCUErU50yF54PH7s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
